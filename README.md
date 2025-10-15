@@ -21,7 +21,7 @@ Lightning Discussions are short, participant-led meetups to start conversations 
 
 ## Schedule
 **Wednesday, October 15** - 2:15 - 2:25 pm
-1. [Your topic] - Your name and LinkedIn Profile link
+1. [Using Scrum beyond coding - Limits] - Axel Jäger https://www.linkedin.com/in/jaegeraxel/
 2. [Your topic] - Your name and LinkedIn Profile link
 
 **Thursday, October 16** - 2:15 - 2:25 pm 
